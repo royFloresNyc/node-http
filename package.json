@@ -2,11 +2,19 @@
   "name": "node-http",
   "version": "1.0.0",
   "description": "Node HTTP Module Example",
-  "main": " ",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
   "author": "Roy Flores",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royFloresNyc/node-http.git"
+  },
+  "bugs": {
+    "url": "https://github.com/royFloresNyc/node-http/issues"
+  },
+  "homepage": "https://github.com/royFloresNyc/node-http#readme"
 }
